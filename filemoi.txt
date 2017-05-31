@@ -1,1 +1,5 @@
 Lam moi file nyy
+
+
+
+Day la lan sua file moi sau khi checkout branch filemoi
